@@ -25,3 +25,9 @@ Objetivos de analise da plataforma:
 -	Avaliação de fatores económicos dos mercados e como estes são afetados.
 -	Identificação de Oportunidades de Investimento com base nas tendências de mercado.
 
+
+
+# Calendario Da TFM
+
+![calendario](./CalendarioTese.PNG "calendario")
+
