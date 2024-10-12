@@ -1,5 +1,50 @@
 # AI-Powered-Real-Estate-Analytics-for-Investors
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="githubExecutarW.png" alt="Imagem 1" width="500" />
+    </td>
+    <td align="center">
+      <strong>Processo de construção do projeto</strong><br/>
+      <img src="flow.png" alt="Imagem 2" width="400" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!--
+### Como Executar
+##### Pré-requisitos
+$ `pip install pandas matplotlib seaborn scikit-learn plotly papermill`
+
+##### Passos para Executar o Projeto
+1. Processamento de Dados:
+   - notebook processing.ipynb
+   - notebook processingJoin.ipynb
+5. Análise de Dados e Analise da Performace dos Modelos
+   - notebook analysis.ipynb
+     - LinearRegressionModel.ipynb – Regressão Linear
+     - RandomForestModel.ipynb – Random Forest
+     - MLP.ipynb – Perceptron Multicamadas (Rede Neural)
+     - LSTM.ipynb – Redes Neurais Recorrentes (LSTM)
+3. Execução da Aplicação:
+   - Para o backend:
+      $ `cd /app/src`
+      $ `python be.py`
+    
+   - Para o frontend:
+      $ `npm start`
+-->
+
+##### Estrutura de Arquivos
+- dadosFinais.json: contém os dados principais para análise.
+- localizacao.json: contém as localizações dos imóveis.
+- housesData.json: contém informações detalhadas sobre os imóveis.
+- resultadosModelos.json: contem os resultados de diferentes modelos preditivos
+
 ### Resumo da proposta de TFM:
 O mercado imobiliário desempenha um papel significativo na economia e nas estratégias de investimento tanto nos países como no mundo. Seja nas áreas de habitação, investimento ou desenvolvimento, o mercado imobiliário é influenciado por uma ampla gama de fatores desde as condições econômicas até às tendências demográficas, passando pelo custo de vida e ciclos de mercado.
 
